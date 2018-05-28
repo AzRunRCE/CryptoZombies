@@ -1,6 +1,6 @@
 # CryptoZombies from CryptoZombies.io
 # A course to learn to use Ethereum Language DApps (Solidity)
-![Feed a CryptoKitties](https://i.gyazo.com/ce096ff975747c05b675c8ea85f633ae.gif)
+![Feed a CryptoKitties](https://i.gyazo.com/a0d580503582804488056cde1dfda8d9.gif)
 ![Unlock](https://i.gyazo.com/9a6ff0e247cf13e0b9e0ae3f33ddc499.gif)
 # The course content:
 
